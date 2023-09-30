@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.done_btn{
+  background-color: green;
+}
+.delete_btn{
+  background-color: red;
+}
+
+.modal_container{
+ width: 300px;
+ height: 300px;
+ background-color: grey;
+ border-radius: 10px;
+ text-align: center;
+}
